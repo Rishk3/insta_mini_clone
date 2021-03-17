@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-## [https://mini-insta-af42f.web.app/](Live Preview)
+## [https://mini-insta-af42f.web.app/] (Live Preview)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

@@ -1,0 +1,29 @@
+.header__search {
+  display: flex;
+  justify-self: flex-start;
+  padding-left: 20px;
+  align-items: center;
+}
+.header__heading p {
+  font-size: 24px;
+}
+.header__search__items {
+  background-color: #ececec;
+  display: flex;
+  padding: 10px 5px;
+
+  border-radius: 6px;
+  border: 1px solid rgb(221, 221, 221);
+  align-items: center;
+}
+.header__search__items > input {
+  outline: none;
+  border: none;
+  padding: 0px 5px;
+  min-width: 35vw;
+  background-color: transparent;
+  color: rgb(37, 37, 37);
+}
+.header__search__items > input::placeholder {
+  color: rgb(134, 134, 134);
+}
